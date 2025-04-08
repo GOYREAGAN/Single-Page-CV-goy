@@ -144,4 +144,5 @@ To view and modify the CV locally:
 
 Acknowledgments
 FreeCodeCamp: For the foundational course on Responsive Web Design
+
 Ionicons: For providing high-quality social media icons.
